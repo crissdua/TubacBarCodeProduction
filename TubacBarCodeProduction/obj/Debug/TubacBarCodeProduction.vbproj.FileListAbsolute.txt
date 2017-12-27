@@ -1,0 +1,28 @@
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.exe.config
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.exe
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.pdb
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.xml
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.vbprojResolveAssemblyReference.cache
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Form1.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Resources.resources
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.vbproj.GenerateResource.Cache
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.exe
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.xml
+c:\users\cristhiam\documents\visual studio 2015\Projects\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.pdb
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.exe.config
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.exe
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.xml
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.pdb
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.exe
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.pdb
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\TubacBarCodeProduction.xml
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.vbprojResolveAssemblyReference.cache
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.cParametros.resources
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Form1.resources
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Login.resources
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Resources.resources
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Parametros.resources
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.vbproj.GenerateResource.Cache
+C:\Users\Cristhiam\Desktop\TubacBarCodeProduction\TubacBarCodeProduction\obj\Debug\TubacBarCodeProduction.Batchs.resources
